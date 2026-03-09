@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../web development"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FolioOne"
+	}
+}
